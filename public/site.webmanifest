@@ -1,0 +1,13 @@
+{
+  "name": "ZAID.WORLD",
+  "short_name": "ZAID.WORLD",
+  "description": "Interactive portfolio of Zaid — developer, creator, builder.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

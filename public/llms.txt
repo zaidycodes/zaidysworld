@@ -1,0 +1,15 @@
+# ZAID.WORLD
+
+> Interactive portfolio of Zaid — a first-year B.Tech Computer Science Engineering student at KL University (Vijayawada, India) building web products, 3D experiments and the early shape of an AI startup.
+
+Everything on the site is labelled honestly: projects are marked as concept, in progress or built. Nothing is claimed that is not true today.
+
+## Sections
+- Home: introduction
+- About: who Zaid is and how he works
+- Work: Nexus AI (concept), Neural Desk (concept), FoodFusion (in progress), Zaid Luxuries (concept)
+- Experiments: small games, algorithm flowcharts and ideas in the lab
+- Tech stack: tools he is building with, learning and exploring
+- Journey: timeline from first year onward
+- Beyond: chess, table tennis, films, books and paradoxes
+- Contact: GitHub and LinkedIn (handle: zaidycodes)
